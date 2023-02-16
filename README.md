@@ -2,6 +2,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RRRRR0204&theme=dark&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=RRRRR0204&show_icons=true&theme=dark&count_private=true)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RRRRR0204&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
